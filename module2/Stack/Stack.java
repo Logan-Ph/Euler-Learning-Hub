@@ -1,5 +1,4 @@
 public class Stack<T> {
-
     private int size;   // the number of items in the stack
     private T[] items; // the array to store the items
 
